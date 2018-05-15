@@ -8,7 +8,7 @@ An app build using React native for Current News Updates ,
 so connect yourself to StayTuned
 
 
-##Clone this repository and follow these steps;
+## Clone this repository and follow these steps;
 
 ### Requirement 
 1. XCode 
