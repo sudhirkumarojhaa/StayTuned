@@ -28,6 +28,7 @@ export default class Headlines extends Component {
   }
 
   componentDidMount() {
+    console.disableYellowBox = true;
     return fetch(
       "https://newsapi.org/v2/top-headlines?sources=google-news-in&apiKey=1daaa98bdda74eabb558d427140ec972"
     ).then(response => {
